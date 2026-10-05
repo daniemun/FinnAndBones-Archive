@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="center">Play it <a href="https://danssmnt.github.io/FinnAndBones-Archive/"><b>here</b></a></h3>
+<h3 align="center">Play it <a href="https://daniemun.github.io/FinnAndBones-Archive/"><b>here</b></a></h3>
 
 ---
 
